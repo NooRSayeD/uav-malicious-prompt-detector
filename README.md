@@ -10,7 +10,7 @@ PrivGuard is a lightweight machine learning system to detect malicious prompts f
 
 ## Installation
 1. Clone the repo:
-git clone https://github.com/your-username/privguard-uav-detector.git
+git clone [https://github.com/NooRSayeD/uav-malicious-prompt-detector.git]
 cd privguard-uav-detector
 text2. Set up a virtual environment (Python 3.9+):
 python -m venv env
